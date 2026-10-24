@@ -81,3 +81,4 @@ If an external call fails, the user gets a clear message instead of a crash.
 ## Demo
 - ASI:One shared chat: https://asi1.ai/shared-chat/96dd8bb2-a68f-455d-b6e3-26937442a224
 - Demo video: https://drive.google.com/file/d/1vdttBu7Pp6Fub7OO-PbiRfml3DlUK18H/view?usp=sharing
+- Presentation: https://docs.google.com/presentation/d/1AvLhCzAT1s9Xx7tVJ2RYouucADlgqpx7/edit?usp=sharing&ouid=115850060429120898211&rtpof=true&sd=true
