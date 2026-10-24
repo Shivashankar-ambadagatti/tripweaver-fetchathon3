@@ -79,5 +79,5 @@ If an external call fails, the user gets a clear message instead of a crash.
    Then reply `approve`, or `recheck simulate rain`.
 
 ## Demo
-- ASI:One shared chat: PASTE_LINK
+- ASI:One shared chat: https://asi1.ai/shared-chat/96dd8bb2-a68f-455d-b6e3-26937442a224
 - Demo video: PASTE_LINK
